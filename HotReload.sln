@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotReload", "HotReload\HotReload.csproj", "{A2B5AB30-E7F3-4434-987B-78E7841DF058}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotReload.RazorClassLibrary", "HotReload.RazorClassLibrary\HotReload.RazorClassLibrary.csproj", "{F9DD0897-6DEF-4C33-BF31-36FD62F76A7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{A2B5AB30-E7F3-4434-987B-78E7841DF058}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2B5AB30-E7F3-4434-987B-78E7841DF058}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2B5AB30-E7F3-4434-987B-78E7841DF058}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9DD0897-6DEF-4C33-BF31-36FD62F76A7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9DD0897-6DEF-4C33-BF31-36FD62F76A7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9DD0897-6DEF-4C33-BF31-36FD62F76A7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9DD0897-6DEF-4C33-BF31-36FD62F76A7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
